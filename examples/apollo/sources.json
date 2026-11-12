@@ -1,0 +1,26 @@
+[
+  {
+    "frame": "AS11-40-5958",
+    "source": "https://eol.jsc.nasa.gov/DatabaseImages/ISD/highres/AS11/AS11-40-5958.JPG",
+    "original_sha256": "43b9b2da7c90ecb646d6e2bda8b2e0479d93200c4fe9e8b266ff3724bfecb4f7",
+    "sample_sha256": "240f8be471979eb32703daae0e65f411c75fd76ad24b17a4d7e318176736f890"
+  },
+  {
+    "frame": "AS11-40-5959",
+    "source": "https://eol.jsc.nasa.gov/DatabaseImages/ISD/highres/AS11/AS11-40-5959.JPG",
+    "original_sha256": "ec2f535540b17dd8a59d88eddc105b5dfc7aadf886100cd10969d45823ffc41c",
+    "sample_sha256": "a72ec2ddfa3e007d92f94a65edfbd8284265ef9a810063ea50b7728cbed3b797"
+  },
+  {
+    "frame": "AS11-40-5960",
+    "source": "https://eol.jsc.nasa.gov/DatabaseImages/ISD/highres/AS11/AS11-40-5960.JPG",
+    "original_sha256": "b07a1d91b6e227abf691ac8d16093e1aefb171e636f7fdce3fdf694450d44210",
+    "sample_sha256": "d99ff455eb6d5975c3e726f579819d0c84ea6e9933e2f580ecedb2c054ec7811"
+  },
+  {
+    "frame": "AS11-40-5961",
+    "source": "https://eol.jsc.nasa.gov/DatabaseImages/ISD/highres/AS11/AS11-40-5961.JPG",
+    "original_sha256": "bd60a6039c7dc6d206aa8c5f6640654e1dc99309f56fd4aa74412a8eed980faf",
+    "sample_sha256": "7ef417b8f941595390a9032ce7858cddfab51d2b2979bd7626f5ccb5b482f317"
+  }
+]
